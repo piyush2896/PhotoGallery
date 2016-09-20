@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="set_no_of_grids_text">Grid Numbers</string>
+    <string name="select_no_of_grids">No. of Grids</string>
+    <string name="clear_title">Clear Search</string>
+    <string name="search">Search</string>
+    <string name="start_polling">Start polling</string>
+    <string name="stop_polling">Stop Polling</string>
+    <string name="new_pictures_title">New PhotoGallery Pictures</string>
+    <string name="new_pictures_text">You have new pictures in PhotoGallery.</string>
+</resources>

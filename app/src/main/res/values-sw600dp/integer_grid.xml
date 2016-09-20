@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="grid_integer_values">
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+    </integer-array>
+    <integer name="grid_width_value">200</integer>
+</resources>
